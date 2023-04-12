@@ -129,7 +129,7 @@ elif (sidebar == 'Custom Match'):
     with col3:
         score = st.number_input('Current Score', min_value=0, step=1)
     with col4:
-        overs = st.number_input('Current Over', value=0, min_value=0, max_value=20, step=0.1)
+        overs = st.number_input('Current Over', value=0, min_value=0, max_value=20, step=1)
     with col5:
         wickets = st.number_input('Wickets down', min_value=0, max_value=10)
 
