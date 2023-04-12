@@ -7,6 +7,7 @@ import base64
 
 @st.cache_data
 
+# Getting the image as base64 since direct paths is not working
 def get_img_as_base64(file):
     with open(file, 'rb') as f:
         data = f.read()
@@ -15,6 +16,7 @@ def get_img_as_base64(file):
 bg_img = get_img_as_base64('./images/pattern1.png')
 sidebar_img = get_img_as_base64('./images/pattern5.png')
 
+# Setting the page style and making the bg image responsive
 page_style = f"""
 <style>
     .sidebar .sidebar-content {{
@@ -54,10 +56,11 @@ page_style = f"""
 """
 st.markdown(page_style, unsafe_allow_html=True)
 
-
+# Building the dashboard
 st.title('IPL win prediction')
 st.sidebar.title('Welcome to IPL Win Predictor')
 st.sidebar.header('Select your choice')
+# Adding options to the sidebar
 sidebar = st.sidebar.selectbox('Live Match or Custom Match?', ('Live Match', 'Custom Match'))
 
 if (sidebar == 'Live Match'):
@@ -107,11 +110,12 @@ elif (sidebar == 'Custom Match'):
                 'Vidarbha Cricket Association Stadium, Jamtha',
                 'Wankhede Stadium']
     
-    pipe = pickle.load(open('./model.pkl', 'rb'))
+    pipe = pickle.load(open('./model.pkl', 'rb')) # Loading the model
 
     col1, col2 = st.columns(2)
     batting_team = ''
     bowling_team = ''
+    # getting the user input through input boxes.
     with col1:
         batting_team = st.selectbox('Select the Batting team', sorted([x for x in teams if x != bowling_team]))
     with col2:
@@ -125,7 +129,7 @@ elif (sidebar == 'Custom Match'):
     with col3:
         score = st.number_input('Current Score', min_value=0, step=1)
     with col4:
-        overs = st.number_input('Current Over', value=0, min_value=0, max_value=20, step=1)
+        overs = st.number_input('Current Over', value=0, min_value=0, max_value=20, step=0.1)
     with col5:
         wickets = st.number_input('Wickets down', min_value=0, max_value=10)
 
@@ -137,8 +141,9 @@ elif (sidebar == 'Custom Match'):
         crr = score/(int(overs)*6 + round((overs - int(overs)))*10)
         rrr = runs_to_bat/(balls_left/6)
 
-# ['batting_team', 'bowling_team', 'venue', 'runs_to_bat', 'balls_left', 'wickets_left', 'target', 'crr', 'rrr']
-
+        # Features required for the model
+        # ['batting_team', 'bowling_team', 'venue', 'runs_to_bat', 'balls_left', 'wickets_left', 'target', 'crr', 'rrr']
+        # making a dataframe from the inputs
         input_df = pd.DataFrame({
             'batting_team': [batting_team],
             'bowling_team': [bowling_team],
@@ -155,6 +160,7 @@ elif (sidebar == 'Custom Match'):
 
         loss = result[0][0]
         win = result[0][1]
+        # Printing the predicted probabilities
         st.header(batting_team + "- " + str(round(win*100)) + "%")
         st.header(bowling_team + "- " + str(round(loss*100)) + "%")
         
