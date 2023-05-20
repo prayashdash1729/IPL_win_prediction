@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/prayashdash1729/IPL_win_prediction">
-    <img src="images/ipl-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/ipl-logo.png" alt="Logo" width="130" height="130">
   </a>
 
   <h3 align="center">IPL-Win-Predictor</h3>
