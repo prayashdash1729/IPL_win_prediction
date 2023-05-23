@@ -19,7 +19,8 @@ class Data:
 #         }
 
     def get_matches(self):
-        url = self.base_url + "/fixtures-by-series/" + str(self.config["SERIES_ID"])
+        url = self.base_url + "/fixtures-by-series/" + st.secrets["SERIES_ID"])
+#         url = self.base_url + "/fixtures-by-series/" + str(self.config["SERIES_ID"])
         response = requests.request("GET", url, headers=self.headers)
         today_matches_id = list()
 
