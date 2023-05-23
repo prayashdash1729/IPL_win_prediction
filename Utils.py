@@ -93,6 +93,6 @@ class pipe:
         self.pipe = pickle.load(open('./model.pkl', 'rb'))
     
     def predict_proba(self, input_df):
-        return self.pipe.predict(input_df)
+        return self.pipe.predict_proba(input_df)
 
     
