@@ -19,12 +19,12 @@
   <h3 align="center">IPL-Win-Predictor</h3>
 
   <p align="center">
-    A <a href="https://ipl-win-predictor-dl6r.onrender.com/">Dashboard</a> to see win predictions of IPL matches
+    A <a href="https://prayashdash1729-ipl-win-prediction-app-ozgwo3.streamlit.app/">Dashboard</a> to see win predictions of IPL matches
     <br />
     <a href="https://github.com/prayashdash1729/IPL_win_prediction"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ipl-win-predictor-dl6r.onrender.com/">View Dashboard</a>
+    <a href="https://prayashdash1729-ipl-win-prediction-app-ozgwo3.streamlit.app/">View Dashboard</a>
     ·
     <a href="https://github.com/prayashdash1729/IPL_win_prediction/issues">Report Bug</a>
     ·
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://ipl-win-predictor-dl6r.onrender.com/)
+[![Product Name Screen Shot][product-screenshot]](https://prayashdash1729-ipl-win-prediction-app-ozgwo3.streamlit.app/)
 
 In India, the passion for cricket and the IPL craze among millions of fans is unparalleled, making it one of the most significant cultural events in the country.
 
