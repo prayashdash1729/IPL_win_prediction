@@ -6,7 +6,7 @@ from datetime import datetime
 class Data:
     def __init__(self):
         self.config = dotenv_values(".env")
-        self.base_url = "https://" + str(self.config["API_HOST"])
+        self.base_url = "https://" + self.config["API_HOST"]
         self.headers = {
             "X-RapidAPI-Key": self.config["API_KEY"],
             "X-RapidAPI-Host": self.config["API_HOST"]
