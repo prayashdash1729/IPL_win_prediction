@@ -2,3 +2,4 @@ numpy
 pandas
 streamlit
 scikit-learn
+python-dotenv
