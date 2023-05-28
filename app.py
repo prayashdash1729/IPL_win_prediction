@@ -76,50 +76,57 @@ if (sidebar == 'Live Match'):
             else:
                 live = match["live_details"]
 
-                batting_team = match["live_details"]["scorecard"][1]["title"].replace(" Innings", "")
-                bowling_team = match["live_details"]["scorecard"][0]["title"].replace(" Innings", "")
-                venue = match["fixture"]['venue'].split(",")[-1].split(" ")[1]
-                target = match["live_details"]["scorecard"][0]["runs"]
-                crr = float(match["live_details"]["stats"]["current_run_rate"])
-                runs = match["live_details"]["scorecard"][1]["runs"]
-                wickets_fallen = int(match["live_details"]["scorecard"][1]["wickets"])
-                wickets_left = 10 - wickets_fallen
-                overs = float(match["live_details"]["scorecard"][1]["overs"].split(".")[0])
-                runs_to_bat = target - runs
-                balls_left = 120 - (int(overs) * 6 + (overs % 1) * 10)
-                rrr = runs_to_bat / (balls_left / 6)
-
-                with col2:
-                    st.write("Batting team: " + batting_team)
-                    st.write("Score: " + str(runs) + "/" + str(wickets_fallen))
-                    st.write("Overs: " + str(overs))
-                    st.write("Target: " + str(target))
-                    st.write("Venue: " + match["fixture"]['venue'])
-
-                input_df = pd.DataFrame({
-                    'batting_team': [batting_team],
-                    'bowling_team': [bowling_team],
-                    'venue': [venue],
-                    'runs_to_bat': [runs_to_bat],
-                    'balls_left': [balls_left],
-                    'wickets_left': [wickets_left],
-                    'target': [target],
-                    'crr': [crr],
-                    'rrr': [rrr]
-                })
-
                 try:
-                    result = pipe.predict_proba(input_df)
+                    batting_team = match["live_details"]["scorecard"][1]["title"].replace(" Innings", "")
+                    bowling_team = match["live_details"]["scorecard"][0]["title"].replace(" Innings", "")
+                    venue = match["fixture"]['venue'].split(",")[-1].split(" ")[1]
+                    target = match["live_details"]["scorecard"][0]["runs"]
+                    crr = float(match["live_details"]["stats"]["current_run_rate"])
+                    runs = match["live_details"]["scorecard"][1]["runs"]
+                    wickets_fallen = int(match["live_details"]["scorecard"][1]["wickets"])
+                    wickets_left = 10 - wickets_fallen
+                    overs = float(match["live_details"]["scorecard"][1]["overs"].split(".")[0])
+                    runs_to_bat = target - runs
+                    balls_left = 120 - (int(overs) * 6 + (overs % 1) * 10)
+                    rrr = runs_to_bat / (balls_left / 6)
 
-                    loss = result[0][0]
-                    win = result[0][1]
-                    # Printing the predicted probabilities
-                    col1.header(batting_team + "- " + str(round(win*100)) + "%")
-                    col1.header(bowling_team + "- " + str(round(loss*100)) + "%")
+                    with col2:
+                        st.write("Batting team: " + batting_team)
+                        st.write("Score: " + str(runs) + "/" + str(wickets_fallen))
+                        st.write("Overs: " + str(overs))
+                        st.write("Target: " + str(target))
+                        st.write("Venue: " + match["fixture"]['venue'])
+
+                    input_df = pd.DataFrame({
+                        'batting_team': [batting_team],
+                        'bowling_team': [bowling_team],
+                        'venue': [venue],
+                        'runs_to_bat': [runs_to_bat],
+                        'balls_left': [balls_left],
+                        'wickets_left': [wickets_left],
+                        'target': [target],
+                        'crr': [crr],
+                        'rrr': [rrr]
+                    })
+
+                    try:
+                        result = pipe.predict_proba(input_df)
+
+                        loss = result[0][0]
+                        win = result[0][1]
+                        # Printing the predicted probabilities
+                        col1.header(batting_team + "- " + str(round(win*100)) + "%")
+                        col1.header(bowling_team + "- " + str(round(loss*100)) + "%")
+
+                    except:
+                        col1.write("_There seems to be some error. Please try again later._")
 
                 except:
-                    col1.write("_There seems to be some error. Please try again later._")
-
+                    col1.subheader(match['live_details']["match_summary"]["status"])
+                    with col2:
+                        st.subheader(match["fixture"]["home"]['name'] + ' vs ' + match["fixture"]["away"]['name'])
+                        st.write("Venue: " + match["fixture"]['venue'])
+                        
 
         # match 1 is the second match of the day
         if(len(matches_id)==2):
