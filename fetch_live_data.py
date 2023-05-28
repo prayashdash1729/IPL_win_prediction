@@ -11,16 +11,16 @@ class Data:
             "X-RapidAPI-Key": st.secrets["API_KEY"],
             "X-RapidAPI-Host": st.secrets["API_HOST"]
         }
-#         self.config = dotenv_values(".env")
-#         self.base_url = "https://" + self.config["API_HOST"]
-#         self.headers = {
-#             "X-RapidAPI-Key": self.config["API_KEY"],
-#             "X-RapidAPI-Host": self.config["API_HOST"]
-#         }
+        # self.config = dotenv_values(".env")
+        # self.base_url = "https://" + self.config["API_HOST"]
+        # self.headers = {
+        #     "X-RapidAPI-Key": self.config["API_KEY"],
+        #     "X-RapidAPI-Host": self.config["API_HOST"]
+        # }
 
     def get_matches(self):
         url = self.base_url + "/fixtures-by-series/" + str(st.secrets["SERIES_ID"])
-#         url = self.base_url + "/fixtures-by-series/" + str(self.config["SERIES_ID"])
+        # url = self.base_url + "/fixtures-by-series/" + str(self.config["SERIES_ID"])
         response = requests.request("GET", url, headers=self.headers)
         today_matches_id = list()
 
