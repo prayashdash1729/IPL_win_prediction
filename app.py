@@ -31,13 +31,19 @@ st.sidebar.header('Select your choice')
 sidebar = st.sidebar.selectbox('Live Match or Custom Match?', ('Live Match', 'Custom Match'))
 
 if (sidebar == 'Live Match'):
-    st.subheader("Today's Matches-")
     # Getting the live matches
-    Data = fetch_live_data.Data()
-    matches_id = Data.get_matches()
-
-    if(len(matches_id) == 0):
-        st.subheader("_No matches today!_")
+    st.subheader("Today's Matches-")
+    
+    try:
+        Data = fetch_live_data.Data()
+        matches_id = Data.get_matches()
+        
+        if(len(matches_id) == 0):
+            st.subheader("_No matches today!_")
+    
+    except:
+        st.write("For local hosting, override the default API to local file. If not running locally, Check API request limit.")
+ 
 
     else:
         # match 0 is the first match of the day
@@ -226,45 +232,71 @@ elif (sidebar == 'Custom Match'):
     with col2:
         bowling_team = st.selectbox('Select the Bowling team', sorted([x for x in teams if x != batting_team]))
 
-    col3, col4 = st.columns(2)
+    col3 = st.columns(1)[0]
     with col3:
-        match_stadium = st.selectbox('Select venue',sorted(stadiums))
-    with col4:
-        target = st.number_input('Target', value=0, min_value=0, step=1)
+        match_stadium = st.selectbox('Select venue', sorted(stadiums))
 
-    col5, col6, col7 = st.columns(3)
+    col4, col5 = st.columns(2)
+    with col4:
+        innings = st.selectbox('Select the Innings', ('1st Innings', '2nd Innings'))
     with col5:
-        score = st.number_input('Current Score', min_value=0, step=1)
+        target = st.number_input('Target (for 2nd Innings)', value=1, min_value=1, step=1)
+
+    col6, col7, col8 = st.columns(3)
     with col6:
-        overs = st.number_input('Current Over', value=0, min_value=0, max_value=20, step=1)
+        score = st.number_input('Current Score', min_value=0, step=1)
     with col7:
+        overs = st.number_input('Current Over', value=0., min_value=0., max_value=20., step=0.1)
+        disable_predict = (overs - int(overs) > 0.5)
+        if(disable_predict):
+            st.error('Invalid Over details. Please enter a valid over')
+    with col8:
         wickets = st.number_input('Wickets down', min_value=0, max_value=10)
 
-    if st.button('Predict Win Probability', help='Predict!'):
+    if st.button('Predict Win Probability', help='Predict!', disabled=disable_predict):
+        data_valid = True
         runs_to_bat = target - score
         # balls_left = 120 - (int(overs)*6 + round((overs - int(overs)))*10)
         balls_left = 120 - int(overs*6)
         wickets_left = 10 - wickets
-        crr = score/(int(overs)*6 + round((overs - int(overs)))*10)
+        if(overs == 0):
+            data_valid = False
+            crr = 0
+            st.error('0 Overs bowled. Please enter valid over details.')
+        else:
+            crr = score/(int(overs)*6 + round((overs - int(overs)))*10)
         rrr = runs_to_bat/(balls_left/6)
 
         # Features required for the model
         # ['batting_team', 'bowling_team', 'city', 'runs_to_bat', 'balls_left', 'wickets_left', 'target', 'crr', 'rrr']
         # making a dataframe from the inputs
-        input_df = pd.DataFrame({
+
+        input_df_ini2 = pd.DataFrame({
             'batting_team': [batting_team],
             'bowling_team': [bowling_team],
-            'city': [match_stadium],
+            'city_stadium': [match_stadium],
             'runs_to_bat': [runs_to_bat],
             'balls_left': [balls_left],
             'wickets_left': [wickets_left],
-            'target': [target],
             'crr': [crr],
             'rrr': [rrr]
         })
 
-        try:
-            result = pipe.predict_proba(input_df)
+        input_df_ini1 = pd.DataFrame({
+            'batting_team': [batting_team],
+            'bowling_team': [bowling_team],
+            'city_stadium': [match_stadium],
+            'runs': [score],
+            'balls_left': [balls_left],
+            'wickets_left': [wickets_left],
+            'crr': [crr],
+        })
+
+        if(data_valid):
+            if(innings == '1st Innings'):
+                result = pipe.ini1_pipe.predict_proba(input_df_ini1)
+            else:
+                result = pipe.ini2_pipe.predict_proba(input_df_ini2)
 
             loss = result[0][0]
             win = result[0][1]
@@ -272,8 +304,9 @@ elif (sidebar == 'Custom Match'):
             st.header(batting_team + "- " + str(round(win*100)) + "%")
             st.header(bowling_team + "- " + str(round(loss*100)) + "%")
 
-        except:
-            st.write("_Something went wrong :(. Try refreshing the page._")
+        # except:
+        #     st.write("_Something went wrong :(. Try refreshing the page._")
+
         
 
         
