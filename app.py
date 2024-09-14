@@ -39,8 +39,10 @@ if (sidebar == 'Live Match'):
         matches_id, code = Data.get_matches()
     except:
         st.write("For local hosting, override the default API to local file. If not running locally, Check API request limit.")
+        # break out of the loop
+        st.stop()
  
-    if(code == 200):
+    if code == 200:
 
         if(len(matches_id) == 0):
             st.subheader("_No matches today!_")
