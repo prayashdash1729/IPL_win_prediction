@@ -106,9 +106,9 @@ class IPL:
 class pipe:
     def __init__(self):
         # Loading the models
-        # self.pipe = pickle.load(open('models\model.pkl', 'rb'))
-        self.ini1_pipe = pickle.load(open('models\ini1_rf.pkl', 'rb'))
-        self.ini2_pipe = pickle.load(open('models\ini2_rf.pkl', 'rb'))
+        # self.pipe = pickle.load(open(r'models/model.pkl', 'rb'))
+        self.ini1_pipe = pickle.load(open(r'models/ini1_rf.pkl', 'rb'))
+        self.ini2_pipe = pickle.load(open(r'models/ini2_rf.pkl', 'rb'))
     
     # def predict_proba(self, input_df, ini):
     #     """
