@@ -1,0 +1,776 @@
+,batting_team,bowling_team,city_stadium,runs,balls_left,wickets_left,crr,actual,predicted,prob_0,prob_1
+24,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,32,55,10,2.9538461538461536,1,0,0.86,0.14
+25,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,36,54,10,3.272727272727273,1,0,0.92,0.08
+28,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,44,51,10,3.8260869565217392,1,0,0.79,0.21
+30,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,45,49,10,3.8028169014084505,1,0,0.6225,0.3775
+31,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,46,48,10,3.8333333333333335,1,0,0.6475,0.3525
+32,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,46,47,9,3.780821917808219,1,0,0.6675,0.3325
+34,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,50,45,9,4.0,1,0,0.847,0.153
+77,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,146,4,8,7.551724137931035,1,0,0.54,0.46
+351,Rajasthan Royals,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,104,42,3,8.0,0,1,0.36,0.64
+376,Mumbai Indians,Royal Challengers Bangalore,Mumbai - Wankhede Stadium,8,110,10,4.8,0,1,0.16,0.84
+556,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata - Eden Gardens,72,101,5,22.736842105263158,0,1,0.3543333333333333,0.6456666666666666
+755,Sunrisers Hyderabad,Delhi Capitals,Hyderabad,15,107,9,6.923076923076923,0,1,0.31,0.69
+1195,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,135,51,2,11.73913043478261,1,0,0.85,0.15
+1205,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,144,41,2,10.936708860759493,1,0,0.7223333333333334,0.2776666666666667
+1503,Mumbai Indians,Sunrisers Hyderabad,Mumbai - Dr DY Patil Sports Academy,14,106,8,6.0,0,1,0.43,0.57
+1988,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,5,111,10,3.3333333333333335,1,0,0.78,0.22
+2224,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,1,77,10,0.13953488372093023,1,0,0.547,0.45299999999999996
+2259,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,66,79,8,9.658536585365853,1,0,0.58,0.42
+2361,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",10,109,10,5.454545454545455,0,1,0.38166666666666665,0.6183333333333334
+2369,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",13,102,10,4.333333333333333,0,1,0.45,0.55
+2371,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",19,100,10,5.7,0,1,0.0,1.0
+2377,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",28,94,9,6.461538461538462,0,1,0.42,0.58
+2382,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",36,91,9,7.448275862068966,0,1,0.3715238095238096,0.6284761904761904
+2415,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",82,60,8,8.2,0,1,0.28,0.72
+2472,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",161,4,5,8.327586206896552,0,1,0.3,0.7
+2483,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,15,72,10,1.875,0,1,0.07,0.93
+2488,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,20,80,10,3.0,0,1,0.43,0.57
+2501,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,45,67,10,5.094339622641509,0,1,0.32,0.68
+2525,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,83,32,9,5.659090909090909,0,1,0.1,0.9
+2526,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,83,31,9,5.595505617977528,0,1,0.46,0.54
+2530,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,89,27,8,5.741935483870968,0,1,0.38,0.62
+2534,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,91,23,8,5.628865979381443,0,1,0.47,0.53
+2536,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,93,21,8,5.636363636363637,0,1,0.31,0.69
+2538,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,103,19,8,6.118811881188119,0,1,0.0,1.0
+2582,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,143,93,6,31.77777777777778,0,1,0.32,0.68
+2681,Kings XI Punjab,Kolkata Knight Riders,Mohali - IS Bindra Stadium,99,118,6,297.0,1,0,0.53,0.47
+2969,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,5,53,10,0.44776119402985076,0,1,0.43,0.57
+3063,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,101,79,0,14.78048780487805,0,1,0.42,0.58
+3098,Chennai Super Kings,Sunrisers Hyderabad,"Chennai - MA Chidambaram Stadium, Chepauk",8,105,10,3.2,0,1,0.29,0.71
+3124,Chennai Super Kings,Sunrisers Hyderabad,"Chennai - MA Chidambaram Stadium, Chepauk",38,2,7,1.9322033898305084,0,1,0.26666666666666666,0.7333333333333334
+3126,Chennai Super Kings,Sunrisers Hyderabad,"Chennai - MA Chidambaram Stadium, Chepauk",43,0,7,2.15,0,1,0.1366666666666667,0.8633333333333334
+3207,Chennai Super Kings,Sunrisers Hyderabad,"Chennai - MA Chidambaram Stadium, Chepauk",135,15,3,7.714285714285714,0,1,0.25,0.75
+3371,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,78,71,8,9.551020408163266,0,1,0.49666666666666665,0.5033333333333334
+3378,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,86,64,8,9.214285714285714,0,1,0.19,0.81
+3385,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,99,57,8,9.428571428571429,0,1,0.25,0.75
+3442,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,0,119,10,0.0,1,0,0.8966666666666666,0.10333333333333332
+3452,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,9,106,9,3.8571428571428568,1,0,0.74,0.26
+3466,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,20,105,8,8.0,1,0,0.86,0.14
+3662,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,0,116,10,0.0,0,1,0.4145476190476191,0.585452380952381
+4561,Kings XI Punjab,Rajasthan Royals,Mohali - IS Bindra Stadium,40,86,10,7.0588235294117645,1,0,0.64,0.36
+4568,Kings XI Punjab,Rajasthan Royals,Mohali - IS Bindra Stadium,57,79,10,8.341463414634147,1,0,0.79,0.21
+4588,Kings XI Punjab,Rajasthan Royals,Mohali - IS Bindra Stadium,82,59,10,8.065573770491804,1,0,0.78,0.22
+4589,Kings XI Punjab,Rajasthan Royals,Mohali - IS Bindra Stadium,86,58,10,8.32258064516129,1,0,0.69,0.31
+5118,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,67,10,7,3.6545454545454548,1,0,0.9466666666666668,0.05333333333333334
+5137,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,101,111,7,67.33333333333333,1,0,0.58,0.42
+5142,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,112,106,7,48.0,1,0,0.56,0.44
+5345,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,21,106,10,9.0,0,1,0.34,0.66
+5372,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,47,41,8,3.5696202531645573,0,1,0.39,0.61
+5373,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,48,40,8,3.5999999999999996,0,1,0.32,0.68
+5374,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,49,39,8,3.6296296296296298,0,1,0.29,0.71
+5375,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,53,38,8,3.878048780487805,0,1,0.47,0.53
+5382,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,59,31,8,3.9775280898876404,0,1,0.46,0.54
+5383,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,60,69,8,7.0588235294117645,0,1,0.2725476190476191,0.727452380952381
+5396,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,68,56,8,6.375,0,1,0.32,0.68
+5411,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,81,119,7,486.0,0,1,0.48,0.52
+5522,Kolkata Knight Riders,Rajasthan Royals,Kolkata - Eden Gardens,68,57,8,6.476190476190476,0,1,0.4391666666666667,0.5608333333333333
+5699,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,175,3,6,8.974358974358974,1,0,0.5,0.5
+5733,Royal Challengers Bangalore,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",22,59,8,2.1639344262295084,1,0,0.66,0.34
+5971,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,19,57,9,1.8095238095238095,0,1,0.38,0.62
+5972,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,20,67,9,2.2641509433962264,0,1,0.48,0.52
+5978,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,38,85,9,6.514285714285714,0,1,0.09,0.91
+6012,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,78,56,7,7.3125,0,1,0.115,0.885
+6013,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,82,55,7,7.569230769230769,0,1,0.295,0.705
+6023,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,95,45,6,7.6,0,1,0.36,0.64
+6055,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,139,16,6,8.01923076923077,0,1,0.44,0.56
+6195,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,0,119,10,0.0,1,0,0.705,0.295
+6202,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,4,112,10,3.0,1,0,0.8975,0.1025
+6206,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,13,108,9,6.5,1,0,0.7725,0.2275
+6207,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,13,107,9,6.0,1,0,0.8008333333333333,0.19916666666666663
+14348,Kings XI Punjab,Delhi Capitals,Mohali - IS Bindra Stadium,10,71,10,1.2244897959183674,0,1,0.46,0.54
+14365,Kings XI Punjab,Delhi Capitals,Mohali - IS Bindra Stadium,38,55,10,3.5076923076923077,0,1,0.2,0.8
+14477,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,7,109,10,3.8181818181818183,0,1,0.37,0.63
+14596,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",5,72,10,0.625,1,0,0.8,0.2
+14600,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",9,69,10,1.0588235294117647,1,0,0.76,0.24
+14601,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",9,68,10,1.0384615384615385,1,0,0.74,0.26
+14649,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",66,23,8,4.082474226804123,1,0,0.53,0.47
+14667,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",91,118,8,273.0,1,0,0.55,0.45
+14668,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",92,117,8,184.0,1,0,0.62,0.38
+15009,Chennai Super Kings,Kolkata Knight Riders,Kolkata - Eden Gardens,39,80,8,5.85,1,0,0.59,0.41
+15047,Chennai Super Kings,Kolkata Knight Riders,Kolkata - Eden Gardens,90,43,8,7.012987012987013,1,0,0.51,0.49
+15049,Chennai Super Kings,Kolkata Knight Riders,Kolkata - Eden Gardens,91,41,8,6.9113924050632916,1,0,0.67,0.33
+15050,Chennai Super Kings,Kolkata Knight Riders,Kolkata - Eden Gardens,91,40,8,6.824999999999999,1,0,0.86,0.14
+15087,Chennai Super Kings,Kolkata Knight Riders,Kolkata - Eden Gardens,138,8,7,7.392857142857142,1,0,0.92,0.08
+15096,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,4,78,10,0.5714285714285714,1,0,0.5426190476190476,0.4573809523809524
+15099,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,7,75,10,0.9333333333333333,1,0,0.5366666666666667,0.46333333333333326
+15335,Rajasthan Royals,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,88,54,3,8.0,0,1,0.25,0.75
+15336,Rajasthan Royals,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,89,53,3,7.970149253731344,0,1,0.22,0.78
+15337,Rajasthan Royals,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,89,52,3,7.852941176470588,0,1,0.16,0.84
+15338,Rajasthan Royals,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,89,51,3,7.739130434782608,0,1,0.15,0.85
+15359,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,22,100,10,6.6,0,1,0.3511666666666667,0.6488333333333333
+16209,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,6,1,10,0.3025210084033614,1,0,0.92,0.08
+16210,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,8,0,10,0.4,1,0,0.93,0.07
+16315,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,143,62,5,14.793103448275863,1,0,0.725,0.275
+16317,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,147,60,5,14.7,1,0,0.7016666666666665,0.29833333333333334
+17225,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,0,118,10,0.0,1,0,0.98,0.02
+17228,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,9,115,10,10.799999999999999,1,0,0.79,0.21
+17231,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,14,112,9,10.5,1,0,0.78,0.22
+17233,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,15,119,9,90.0,1,0,0.94,0.06
+17250,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,43,53,7,3.8507462686567164,1,0,0.7674999999999998,0.23250000000000004
+17607,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,12,119,10,72.0,1,0,0.5773333333333333,0.4226666666666666
+17608,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,13,118,10,39.0,1,0,0.5539999999999999,0.44599999999999995
+17729,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata - Eden Gardens,8,57,10,0.7619047619047619,1,0,0.52,0.48
+17897,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,59,76,8,8.045454545454545,0,1,0.05,0.95
+18604,Chennai Super Kings,Mumbai Indians,"Chennai - MA Chidambaram Stadium, Chepauk",12,108,10,6.0,1,0,0.5033333333333333,0.49666666666666665
+18631,Chennai Super Kings,Mumbai Indians,"Chennai - MA Chidambaram Stadium, Chepauk",47,83,9,7.621621621621621,1,0,0.94,0.06
+18632,Chennai Super Kings,Mumbai Indians,"Chennai - MA Chidambaram Stadium, Chepauk",48,82,9,7.578947368421053,1,0,0.9,0.1
+18633,Chennai Super Kings,Mumbai Indians,"Chennai - MA Chidambaram Stadium, Chepauk",48,81,9,7.384615384615385,1,0,0.65,0.35
+18860,Kolkata Knight Riders,Delhi Capitals,Kolkata - Eden Gardens,25,55,9,2.3076923076923075,1,0,0.88,0.12
+19007,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,39,90,9,7.8,0,1,0.20183333333333336,0.7981666666666666
+19010,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,45,88,9,8.4375,0,1,0.34397619047619044,0.6560238095238095
+19011,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,45,87,9,8.181818181818182,0,1,0.49099999999999994,0.509
+19435,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,121,48,5,10.083333333333334,0,1,0.3735000000000001,0.6265000000000001
+19437,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,121,46,4,9.81081081081081,0,1,0.2824999999999999,0.7175
+19475,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,1,112,9,0.75,0,1,0.41,0.59
+19600,Mumbai Indians,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,12,4,10,0.6206896551724138,1,0,0.93,0.07
+20113,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,11,104,8,4.125,0,1,0.4683333333333334,0.5316666666666667
+20127,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,18,103,8,6.352941176470588,0,1,0.13,0.87
+20129,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,22,101,8,6.947368421052632,0,1,0.37,0.63
+20131,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,22,99,7,6.285714285714286,0,1,0.17,0.83
+20227,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",3,119,10,18.0,0,1,0.1075,0.8925
+20236,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",8,115,8,9.6,0,1,0.45733333333333337,0.5426666666666666
+20240,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",14,112,8,10.5,0,1,0.39,0.61
+20251,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",28,89,7,5.419354838709677,0,1,0.255,0.7449999999999999
+20253,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",28,87,7,5.090909090909091,0,1,0.19083333333333335,0.8091666666666666
+20274,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",44,66,6,4.888888888888889,0,1,0.35,0.65
+20331,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",102,40,3,7.6499999999999995,0,1,0.22,0.78
+20864,Sunrisers Hyderabad,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,22,98,10,6.0,1,0,0.64,0.36
+20934,Sunrisers Hyderabad,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,117,32,5,7.9772727272727275,1,0,0.7,0.3
+20970,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,1,115,9,1.2,0,1,0.145,0.855
+20973,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,3,112,9,2.25,0,1,0.375,0.625
+20990,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,22,92,8,4.714285714285714,0,1,0.01,0.99
+20991,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,24,91,8,4.9655172413793105,0,1,0.19,0.81
+20992,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,24,90,8,4.8,0,1,0.42,0.58
+20994,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,25,88,8,4.6875,0,1,0.35,0.65
+20995,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,26,87,8,4.7272727272727275,0,1,0.31,0.69
+21058,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,102,46,5,8.27027027027027,0,1,0.48,0.52
+21850,Delhi Capitals,Mumbai Indians,Delhi - Arun Jaitley Cricket Stadium,27,84,8,4.5,0,1,0.33833333333333343,0.6616666666666667
+21923,Delhi Capitals,Mumbai Indians,Delhi - Arun Jaitley Cricket Stadium,90,18,1,5.294117647058823,0,1,0.45,0.55
+22178,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,9,32,10,0.6136363636363636,0,1,0.23,0.77
+22187,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,26,24,10,1.625,0,1,0.49,0.51
+22561,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,13,104,10,4.875,0,1,0.29,0.71
+22564,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,17,101,10,5.368421052631579,0,1,0.48,0.52
+22831,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,46,119,9,276.0,0,1,0.44,0.56
+22832,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,47,118,9,141.0,0,1,0.43,0.57
+22845,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,60,79,7,8.78048780487805,0,1,0.24,0.76
+22847,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,62,77,7,8.651162790697674,0,1,0.081,0.919
+22848,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,64,76,7,8.727272727272728,0,1,0.4478333333333333,0.5521666666666666
+22850,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,65,74,7,8.478260869565217,0,1,0.15866666666666665,0.8413333333333333
+22851,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,69,73,7,8.808510638297873,0,1,0.43,0.57
+22862,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,88,62,7,9.10344827586207,0,1,0.36,0.64
+22867,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,96,57,7,9.142857142857142,0,1,0.426,0.574
+22868,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,97,56,7,9.09375,0,1,0.49,0.51
+22917,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,165,8,2,8.839285714285714,0,1,0.23,0.77
+23339,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,78,49,7,6.591549295774648,1,0,0.6,0.4
+23378,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,143,12,7,7.944444444444445,1,0,0.6908333333333333,0.3091666666666667
+23386,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,161,4,6,8.327586206896552,1,0,0.8496666666666667,0.15033333333333332
+23394,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,6,119,10,36.0,0,1,0.38,0.62
+23531,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,22,55,10,2.0307692307692307,1,0,0.91,0.09
+23549,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,58,38,9,4.2439024390243905,1,0,0.8521904761904763,0.1478095238095238
+23550,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,59,37,9,4.265060240963855,1,0,0.6913571428571427,0.3086428571428571
+23586,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,118,118,6,354.0,1,0,0.71,0.29
+23648,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,1,114,10,1.0,1,0,0.74,0.26
+23654,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,10,112,10,7.5,1,0,0.5633333333333332,0.4366666666666667
+23658,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,15,108,10,7.5,1,0,0.5351666666666667,0.46483333333333327
+23769,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,4,111,10,2.6666666666666665,0,1,0.24,0.76
+23781,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,15,100,10,4.5,0,1,0.33,0.67
+23802,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,35,119,8,210.0,0,1,0.43,0.57
+23803,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,36,118,8,108.0,0,1,0.48,0.52
+23807,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,41,114,8,41.0,0,1,0.39,0.61
+23808,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,43,113,8,36.857142857142854,0,1,0.4,0.6
+23932,Kolkata Knight Riders,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,44,78,8,6.285714285714286,1,0,0.68,0.32
+23960,Kolkata Knight Riders,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,64,59,8,6.2950819672131155,1,0,0.87,0.13
+23987,Kolkata Knight Riders,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,104,34,7,7.255813953488372,1,0,0.7743333333333333,0.2256666666666667
+24419,Mumbai Indians,Kings XI Punjab,Mumbai - Wankhede Stadium,24,92,10,5.142857142857142,1,0,0.67,0.33
+24905,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,24,0,7,1.2,1,0,0.58,0.42
+24921,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,37,104,7,13.875,1,0,0.73,0.27
+24960,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,113,66,6,12.555555555555555,1,0,0.71,0.29
+25101,Chennai Super Kings,Kolkata Knight Riders,Kolkata - Eden Gardens,79,53,6,7.074626865671642,0,1,0.12,0.88
+25141,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,8,69,9,0.9411764705882353,1,0,0.81,0.19
+25156,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,19,54,9,1.7272727272727273,1,0,0.73,0.27
+25159,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,22,51,9,1.9130434782608696,1,0,0.7433333333333334,0.25666666666666665
+25285,Chennai Super Kings,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,46,23,9,2.8453608247422677,1,0,0.95,0.05
+25414,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,35,97,9,9.130434782608695,1,0,0.69,0.31
+25417,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,38,94,9,8.76923076923077,1,0,0.91,0.09
+25515,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,6,116,10,9.0,0,1,0.326,0.674
+25517,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,9,114,10,9.0,0,1,0.17483333333333334,0.8251666666666666
+25538,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,31,95,10,7.4399999999999995,0,1,0.335,0.665
+25573,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,79,60,8,7.9,0,1,0.37,0.63
+25641,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",8,105,10,3.2,1,0,0.83,0.17
+25725,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",113,25,7,7.136842105263158,1,0,0.73,0.27
+25742,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",146,10,7,7.963636363636364,1,0,0.7518333333333334,0.24816666666666667
+25743,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",147,9,7,7.945945945945946,1,0,0.6224999999999999,0.3775
+25753,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,1,78,10,0.14285714285714285,0,1,0.39,0.61
+25769,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,9,67,10,1.0188679245283019,0,1,0.36,0.64
+25794,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,52,43,9,4.0519480519480515,0,1,0.49683333333333335,0.5031666666666667
+25845,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,5,101,9,1.5789473684210527,1,0,0.65,0.35
+26207,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,1,117,10,2.0,0,1,0.1825,0.8175
+26220,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,16,38,9,1.1707317073170733,0,1,0.32,0.68
+26235,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,33,23,9,2.0412371134020617,0,1,0.16,0.84
+26236,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,35,22,9,2.142857142857143,0,1,0.04,0.96
+26452,Chennai Super Kings,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,0,79,10,0.0,0,1,0.077,0.9229999999999999
+26454,Chennai Super Kings,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,1,76,10,0.13636363636363638,0,1,0.1338095238095238,0.8661904761904762
+26566,Chennai Super Kings,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,102,11,3,5.614678899082568,0,1,0.13,0.87
+26572,Chennai Super Kings,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,117,5,2,6.104347826086956,0,1,0.47,0.53
+26608,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,44,90,8,8.8,0,1,0.44766666666666666,0.5523333333333333
+26609,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,44,89,8,8.516129032258064,0,1,0.2876666666666667,0.7123333333333334
+26652,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,102,46,7,8.27027027027027,0,1,0.07033333333333333,0.9296666666666665
+26653,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,102,45,7,8.16,0,1,0.09666666666666666,0.9033333333333333
+26657,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,104,41,7,7.89873417721519,0,1,0.27283333333333337,0.7271666666666665
+27216,Chennai Super Kings,Mumbai Indians,"Chennai - MA Chidambaram Stadium, Chepauk",22,100,10,6.6,0,1,0.21166666666666667,0.7883333333333333
+27362,Kolkata Knight Riders,Delhi Capitals,Kolkata - Eden Gardens,53,52,6,4.6764705882352935,0,1,0.46,0.54
+27363,Kolkata Knight Riders,Delhi Capitals,Kolkata - Eden Gardens,54,51,6,4.695652173913044,0,1,0.47,0.53
+27399,Kolkata Knight Riders,Delhi Capitals,Kolkata - Eden Gardens,97,88,1,18.1875,0,1,0.24,0.76
+27528,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,0,116,10,0.0,1,0,0.7038333333333334,0.2961666666666667
+27777,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,1,118,10,3.0,1,0,0.79,0.21
+27789,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,11,106,9,4.714285714285714,1,0,0.51,0.49
+27790,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,11,105,9,4.4,1,0,0.53,0.47
+27859,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,104,38,7,7.609756097560976,1,0,0.57,0.43
+27871,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,120,26,7,7.659574468085107,1,0,0.504,0.49599999999999994
+27886,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,147,11,6,8.091743119266054,1,0,0.5666666666666668,0.4333333333333333
+28033,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,13,110,10,7.8,1,0,0.5,0.5
+28054,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,58,89,10,11.225806451612902,1,0,0.5,0.5
+28338,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,105,42,5,8.076923076923077,1,0,0.64,0.36
+28339,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,109,41,5,8.278481012658228,1,0,0.8,0.2
+28653,Sunrisers Hyderabad,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,9,109,10,4.909090909090909,0,1,0.25,0.75
+28655,Sunrisers Hyderabad,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,10,107,10,4.615384615384616,0,1,0.31,0.69
+28664,Sunrisers Hyderabad,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,18,98,9,4.909090909090909,0,1,0.3,0.7
+28733,Sunrisers Hyderabad,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,114,33,6,7.862068965517241,0,1,0.25,0.75
+28770,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,2,74,10,0.2608695652173913,1,0,0.7216666666666666,0.2783333333333334
+28772,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,9,76,10,1.2272727272727273,1,0,0.6445000000000001,0.3555
+28774,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,10,70,10,1.2,1,0,0.93,0.07
+28779,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,21,65,10,2.290909090909091,1,0,0.975,0.025
+28780,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,22,64,10,2.357142857142857,1,0,0.885,0.115
+28804,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,46,80,9,6.8999999999999995,1,0,0.63,0.37
+28806,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,47,38,9,3.4390243902439024,1,0,0.79,0.21
+28819,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,67,25,8,4.231578947368421,1,0,0.8236666666666668,0.17633333333333334
+28823,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,69,21,7,4.181818181818182,1,0,0.655,0.345
+28838,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,93,6,4,4.894736842105263,1,0,0.85,0.15
+28839,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,94,5,4,4.904347826086957,1,0,0.88,0.12
+28840,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,94,4,4,4.862068965517242,1,0,0.9,0.1
+29013,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,4,74,9,0.5217391304347826,0,1,0.2366666666666667,0.7633333333333333
+29014,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,5,73,9,0.6382978723404256,0,1,0.19666666666666666,0.8033333333333335
+29015,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,6,76,9,0.8181818181818182,0,1,0.29,0.71
+29018,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,7,70,9,0.84,0,1,0.3783333333333333,0.6216666666666667
+29258,Kings XI Punjab,Kolkata Knight Riders,Mohali - IS Bindra Stadium,2,113,10,1.7142857142857142,0,1,0.027999999999999997,0.972
+29749,Mumbai Indians,Kings XI Punjab,Mumbai - Wankhede Stadium,0,109,10,0.0,0,1,0.3,0.7
+29751,Mumbai Indians,Kings XI Punjab,Mumbai - Wankhede Stadium,2,111,10,1.3333333333333333,0,1,0.28,0.72
+29761,Mumbai Indians,Kings XI Punjab,Mumbai - Wankhede Stadium,16,97,10,4.173913043478261,0,1,0.25,0.75
+29772,Mumbai Indians,Kings XI Punjab,Mumbai - Wankhede Stadium,32,86,10,5.647058823529411,0,1,0.01,0.99
+29824,Mumbai Indians,Kings XI Punjab,Mumbai - Wankhede Stadium,100,5,6,5.217391304347826,0,1,0.45,0.55
+30189,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,111,75,9,14.8,0,1,0.17,0.83
+30190,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,111,74,8,14.478260869565217,0,1,0.31,0.69
+30206,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,122,59,8,12.0,0,1,0.35,0.65
+30228,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,147,38,7,10.75609756097561,0,1,0.11,0.8899999999999999
+30501,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,13,102,10,4.333333333333333,1,0,0.7959999999999999,0.204
+30503,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,17,113,10,14.571428571428571,1,0,0.6,0.4
+30504,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,17,112,10,12.75,1,0,0.66,0.34
+30525,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,40,89,10,7.741935483870967,1,0,0.7825,0.2175
+30553,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,86,61,10,8.745762711864407,1,0,0.5975,0.4025
+30554,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,87,60,10,8.7,1,0,0.5091666666666667,0.4908333333333333
+30616,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,4,119,10,24.0,1,0,0.5758333333333332,0.4241666666666667
+30625,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,15,118,9,45.0,1,0,0.5873333333333334,0.41266666666666657
+30695,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,88,92,4,18.857142857142858,1,0,0.68,0.32
+30706,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,107,82,4,16.894736842105264,1,0,0.5322500000000001,0.46775
+30728,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,129,61,4,13.118644067796609,1,0,0.68,0.32
+30735,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,148,54,4,13.454545454545455,1,0,0.6665000000000001,0.3335
+30878,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",30,97,8,7.826086956521739,0,1,0.22,0.78
+30880,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",32,95,8,7.68,0,1,0.21,0.79
+30881,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",33,94,8,7.615384615384616,0,1,0.08,0.92
+30927,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",84,49,7,7.098591549295774,0,1,0.23,0.77
+30953,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",106,23,6,6.556701030927835,0,1,0.475,0.525
+30959,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",115,17,6,6.699029126213592,0,1,0.3005,0.6995
+30966,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",121,10,5,6.6000000000000005,0,1,0.06,0.94
+30977,Rajasthan Royals,Delhi Capitals,Jaipur - Sawai Mansingh Stadium,1,0,10,0.05,0,1,0.38,0.62
+31723,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,0,115,10,0.0,0,1,0.24372222222222228,0.7562777777777778
+31737,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,34,110,10,20.4,0,1,0.29,0.71
+31842,Kings XI Punjab,Sunrisers Hyderabad,Hyderabad,0,118,10,0.0,1,0,0.83,0.17
+31844,Kings XI Punjab,Sunrisers Hyderabad,Hyderabad,1,114,10,1.0,1,0,0.95,0.05
+31845,Kings XI Punjab,Sunrisers Hyderabad,Hyderabad,5,113,10,4.285714285714286,1,0,0.97,0.03
+31913,Kings XI Punjab,Sunrisers Hyderabad,Hyderabad,97,53,8,8.686567164179104,1,0,0.51,0.49
+31921,Kings XI Punjab,Sunrisers Hyderabad,Hyderabad,109,45,7,8.72,1,0,0.66,0.34
+32544,Sunrisers Hyderabad,Kings XI Punjab,Mohali - IS Bindra Stadium,126,46,7,10.216216216216216,0,1,0.18,0.82
+33084,Kolkata Knight Riders,Mumbai Indians,Mumbai - Wankhede Stadium,140,17,3,8.155339805825243,1,0,0.55,0.45
+33530,Kings XI Punjab,Delhi Capitals,Dharamsala,71,119,6,426.0,0,1,0.05,0.95
+33562,Kings XI Punjab,Delhi Capitals,Dharamsala,123,15,5,7.0285714285714285,0,1,0.4,0.6
+33703,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,5,112,10,3.75,0,1,0.34,0.66
+33704,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,6,111,10,4.0,0,1,0.07,0.93
+33814,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,143,18,5,8.411764705882353,0,1,0.106,0.8939999999999999
+33816,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,145,16,5,8.365384615384617,0,1,0.4585,0.5415
+34082,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",11,115,10,13.2,1,0,0.5,0.5
+34083,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",12,114,10,12.0,1,0,0.82,0.18
+34084,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",12,113,10,10.285714285714285,1,0,0.575,0.425
+34202,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",2,117,10,4.0,0,1,0.47766666666666674,0.5223333333333333
+34204,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",3,119,10,18.0,0,1,0.37,0.63
+34209,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",8,106,10,3.4285714285714284,0,1,0.49,0.51
+34226,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",36,89,10,6.967741935483871,0,1,0.34,0.66
+34237,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",54,79,10,7.902439024390244,0,1,0.12,0.88
+34269,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",94,49,9,7.943661971830985,0,1,0.06,0.94
+34311,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",167,18,8,9.823529411764707,0,1,0.23,0.77
+34452,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,0,108,10,0.0,1,0,0.585047619047619,0.414952380952381
+34474,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,23,100,8,6.8999999999999995,1,0,0.72,0.28
+34475,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,23,99,8,6.571428571428571,1,0,0.75,0.25
+34477,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,29,97,8,7.565217391304348,1,0,0.62,0.38
+34514,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,73,87,6,13.272727272727273,1,0,0.77,0.23
+34557,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,120,16,5,6.923076923076923,1,0,0.54,0.46
+35137,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,125,46,9,10.135135135135135,1,0,0.68,0.32
+35185,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,189,5,5,9.86086956521739,1,0,0.57,0.43
+35313,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,1,79,10,0.14634146341463417,0,1,0.42,0.58
+35315,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,3,75,10,0.4,0,1,0.09,0.91
+35872,Kings XI Punjab,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,67,57,8,6.380952380952381,0,1,0.36,0.64
+35873,Kings XI Punjab,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,69,56,8,6.46875,0,1,0.4,0.6
+35927,Kings XI Punjab,Kolkata Knight Riders,Mohali - IS Bindra Stadium,1,119,10,6.0,1,0,0.5960000000000001,0.40399999999999997
+35936,Kings XI Punjab,Kolkata Knight Riders,Mohali - IS Bindra Stadium,5,111,10,3.3333333333333335,1,0,0.7658333333333333,0.23416666666666663
+36187,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,15,107,10,6.923076923076923,1,0,0.82,0.18
+36188,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,15,106,10,6.428571428571428,1,0,0.55,0.45
+36284,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,145,17,7,8.446601941747572,1,0,0.5476666666666666,0.45233333333333337
+36288,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,149,13,7,8.355140186915888,1,0,0.8616666666666666,0.13833333333333334
+36289,Rajasthan Royals,Mumbai Indians,Jaipur - Sawai Mansingh Stadium,153,12,7,8.5,1,0,0.61,0.39
+36673,Rajasthan Royals,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,1,115,10,1.2,0,1,0.48666666666666664,0.5133333333333333
+36677,Rajasthan Royals,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,6,111,10,4.0,0,1,0.02,0.98
+36844,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,91,119,8,546.0,0,1,0.38,0.62
+36906,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,154,57,6,14.666666666666666,0,1,0.1225,0.8775
+36907,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,155,56,6,14.53125,0,1,0.15,0.85
+36909,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,161,54,6,14.636363636363637,0,1,0.28,0.72
+37037,Kings XI Punjab,Delhi Capitals,Dharamsala,1,118,10,3.0,1,0,0.5,0.5
+37039,Kings XI Punjab,Delhi Capitals,Dharamsala,1,116,10,1.5,1,0,0.56,0.44
+37045,Kings XI Punjab,Delhi Capitals,Dharamsala,11,107,10,5.0769230769230775,1,0,0.94,0.06
+37342,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",99,113,7,84.85714285714285,0,1,0.05,0.95
+37343,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",99,112,7,74.25,0,1,0.11,0.89
+37891,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",187,7,8,9.929203539823009,1,0,0.8,0.2
+37892,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",188,6,8,9.894736842105264,1,0,0.56,0.44
+38030,Mumbai Indians,Kings XI Punjab,Mumbai - Wankhede Stadium,5,105,10,2.0,1,0,0.7,0.3
+38222,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,77,2,8,3.9152542372881354,0,1,0.39,0.61
+38764,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,4,3,10,0.20512820512820512,0,1,0.23,0.77
+38768,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,8,10,9,0.4363636363636364,0,1,0.26,0.74
+38777,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,27,118,6,81.0,0,1,0.15833333333333333,0.8416666666666667
+38779,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,29,116,6,43.5,0,1,0.4366666666666667,0.5633333333333332
+38785,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,34,110,6,20.4,0,1,0.45,0.55
+38786,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,35,109,6,19.09090909090909,0,1,0.37,0.63
+38805,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,49,90,5,9.8,0,1,0.45416666666666666,0.5458333333333333
+38806,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,49,89,5,9.483870967741934,0,1,0.15583333333333335,0.8441666666666666
+38807,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,49,88,5,9.1875,0,1,0.10666666666666666,0.8933333333333333
+38848,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,92,47,5,7.561643835616438,0,1,0.42,0.58
+39013,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,139,6,5,7.315789473684211,1,0,0.89,0.11
+39404,Chennai Super Kings,Sunrisers Hyderabad,Hyderabad,12,106,10,5.142857142857142,1,0,0.7433333333333333,0.25666666666666665
+39420,Chennai Super Kings,Sunrisers Hyderabad,Hyderabad,44,90,10,8.8,1,0,0.555,0.44499999999999995
+39451,Chennai Super Kings,Sunrisers Hyderabad,Hyderabad,91,60,9,9.1,1,0,0.59,0.41
+39467,Chennai Super Kings,Sunrisers Hyderabad,Hyderabad,114,44,9,9.0,1,0,0.51,0.49
+39553,Kings XI Punjab,Rajasthan Royals,Mohali - IS Bindra Stadium,50,82,10,7.894736842105264,0,1,0.05,0.95
+39613,Kings XI Punjab,Rajasthan Royals,Mohali - IS Bindra Stadium,117,103,7,41.29411764705882,0,1,0.41,0.59
+39617,Kings XI Punjab,Rajasthan Royals,Mohali - IS Bindra Stadium,121,99,7,34.57142857142857,0,1,0.38,0.62
+39825,Sunrisers Hyderabad,Kings XI Punjab,Mohali - IS Bindra Stadium,71,57,4,6.761904761904762,1,0,0.616,0.384
+39830,Sunrisers Hyderabad,Kings XI Punjab,Mohali - IS Bindra Stadium,77,52,4,6.794117647058823,1,0,0.88,0.12
+39833,Sunrisers Hyderabad,Kings XI Punjab,Mohali - IS Bindra Stadium,81,49,4,6.845070422535211,1,0,0.6433333333333334,0.3566666666666667
+40146,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,12,59,10,1.180327868852459,0,1,0.22,0.78
+40147,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,12,58,10,1.161290322580645,0,1,0.26,0.74
+40504,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,1,113,10,0.8571428571428571,1,0,0.84,0.16
+40566,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,89,58,9,8.612903225806452,1,0,0.55,0.45
+40584,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,111,40,7,8.325,1,0,0.66,0.34
+40619,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,156,7,4,8.283185840707965,1,0,0.6633333333333333,0.33666666666666667
+40626,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,166,0,2,8.3,1,0,0.77,0.23
+40692,Royal Challengers Bangalore,Kings XI Punjab,Mohali - IS Bindra Stadium,81,15,7,4.628571428571429,0,1,0.15,0.85
+40723,Royal Challengers Bangalore,Kings XI Punjab,Mohali - IS Bindra Stadium,137,100,7,41.1,0,1,0.4,0.6
+40724,Royal Challengers Bangalore,Kings XI Punjab,Mohali - IS Bindra Stadium,138,99,7,39.42857142857143,0,1,0.27,0.73
+40757,Sunrisers Hyderabad,Rajasthan Royals,Hyderabad,7,67,8,0.7924528301886792,1,0,0.53,0.47
+40801,Sunrisers Hyderabad,Rajasthan Royals,Hyderabad,72,24,7,4.5,1,0,0.54,0.46
+40847,Sunrisers Hyderabad,Rajasthan Royals,Hyderabad,109,97,1,28.434782608695652,1,0,0.71,0.29
+41053,Kolkata Knight Riders,Sunrisers Hyderabad,Hyderabad,5,115,10,6.0,0,1,0.42,0.58
+41054,Kolkata Knight Riders,Sunrisers Hyderabad,Hyderabad,5,114,10,5.0,0,1,0.36,0.64
+41686,Kolkata Knight Riders,Mumbai Indians,Abu Dhabi - Sheikh Zayed Stadium,14,0,9,0.7,1,0,0.72,0.28
+42648,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,42,110,8,25.2,0,1,0.46,0.54
+42712,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,142,53,6,12.716417910447761,0,1,0.49,0.51
+42714,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,149,51,6,12.956521739130435,0,1,0.05,0.95
+42802,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,109,79,7,15.951219512195122,0,1,0.4175,0.5825
+42809,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,117,72,7,14.625,0,1,0.49,0.51
+42820,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,131,61,6,13.322033898305085,0,1,0.34,0.66
+43370,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,18,109,9,9.818181818181818,0,1,0.37,0.63
+43600,Sunrisers Hyderabad,Rajasthan Royals,"Ahmedabad - Sardar Patel Stadium, Motera",0,117,10,0.0,1,0,0.6675,0.3325
+43744,Kings XI Punjab,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,31,94,10,7.153846153846154,1,0,0.6,0.4
+43746,Kings XI Punjab,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,36,92,10,7.7142857142857135,1,0,0.52,0.48
+44045,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,83,46,6,6.72972972972973,0,1,0.39,0.61
+44061,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,95,110,6,57.0,0,1,0.23,0.77
+44069,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,103,102,5,34.333333333333336,0,1,0.44,0.56
+44601,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,2,110,10,1.2,1,0,0.6,0.4
+44602,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,3,109,10,1.6363636363636365,1,0,0.6,0.4
+44614,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,24,97,10,6.260869565217391,1,0,0.75,0.25
+44617,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,28,94,10,6.461538461538462,1,0,0.517,0.483
+44622,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,33,89,10,6.387096774193548,1,0,0.6025,0.3975
+44623,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,33,88,10,6.1875,1,0,0.5325,0.4675
+44789,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,113,48,8,9.416666666666666,0,1,0.4025000000000001,0.5975
+44792,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,115,46,8,9.324324324324325,0,1,0.11333333333333334,0.8866666666666667
+44832,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,169,10,7,9.218181818181819,0,1,0.31,0.69
+44833,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,173,9,7,9.35135135135135,0,1,0.27,0.73
+44834,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,180,8,7,9.642857142857142,0,1,0.42,0.58
+44837,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,187,5,6,9.756521739130434,0,1,0.15,0.85
+44838,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,193,4,6,9.982758620689657,0,1,0.26,0.74
+45235,Sunrisers Hyderabad,Kolkata Knight Riders,Hyderabad,32,60,9,3.2,0,1,0.21,0.79
+45508,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,57,39,10,4.222222222222222,0,1,0.4093333333333334,0.5906666666666667
+45532,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,94,55,9,8.676923076923076,0,1,0.44,0.56
+45542,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,107,45,9,8.56,0,1,0.35,0.65
+45564,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,127,100,8,38.1,0,1,0.49,0.51
+45566,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,133,100,8,39.9,0,1,0.41,0.59
+45569,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,137,22,8,8.387755102040817,0,1,0.33,0.67
+45891,Kings XI Punjab,Mumbai Indians,Mohali - IS Bindra Stadium,74,25,9,4.673684210526315,0,1,0.42,0.58
+45981,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,35,94,8,8.076923076923077,1,0,0.7653333333333333,0.2346666666666667
+46007,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,87,30,8,5.8,1,0,0.61,0.39
+46021,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,109,55,8,10.061538461538461,1,0,0.87,0.13
+46028,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,120,48,8,10.0,1,0,0.6695,0.33049999999999996
+46029,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,120,47,8,9.863013698630137,1,0,0.7153333333333333,0.2846666666666667
+46033,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,125,43,8,9.74025974025974,1,0,0.76,0.24
+46408,Kings XI Punjab,Rajasthan Royals,Mohali - IS Bindra Stadium,104,115,7,124.8,1,0,0.64,0.36
+46453,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,2,117,10,4.0,0,1,0.48,0.52
+46558,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,130,15,6,7.428571428571429,0,1,0.12,0.88
+46567,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,143,6,5,7.526315789473684,0,1,0.3,0.7
+46568,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,144,5,5,7.513043478260869,0,1,0.29,0.71
+46574,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,154,-1,4,7.636363636363636,0,1,0.41333333333333333,0.5866666666666667
+47176,Kings XI Punjab,Chennai Super Kings,Mumbai - Wankhede Stadium,1,78,10,0.14285714285714285,1,0,0.57,0.43
+47495,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,83,62,7,8.586206896551724,0,1,0.42,0.58
+47525,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,119,32,7,8.113636363636363,0,1,0.13,0.87
+47526,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,125,31,7,8.42696629213483,0,1,0.21,0.79
+47531,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,134,26,7,8.553191489361703,0,1,0.46875000000000006,0.5312499999999999
+47537,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,143,20,7,8.58,0,1,0.3370833333333333,0.6629166666666666
+47549,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",0,114,10,0.0,1,0,0.84,0.16
+47551,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",5,110,10,3.0,1,0,0.98,0.02
+47570,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",32,92,9,6.857142857142857,1,0,0.85,0.15
+47625,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",100,46,6,8.108108108108107,1,0,0.68,0.32
+47929,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,5,119,10,30.0,0,1,0.38,0.62
+47948,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,29,96,10,7.25,0,1,0.3741666666666667,0.6258333333333334
+47961,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,46,84,10,7.666666666666667,0,1,0.1675,0.8325
+48005,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,101,50,7,8.657142857142858,0,1,0.19833333333333333,0.8016666666666665
+48064,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,15,115,10,18.0,0,1,0.1475,0.8524999999999998
+48065,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,19,114,10,19.0,0,1,0.11999999999999998,0.8799999999999999
+48108,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,77,25,9,4.863157894736842,0,1,0.25,0.75
+48109,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,78,24,9,4.875,0,1,0.34,0.66
+48151,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,152,52,7,13.411764705882351,0,1,0.25833333333333336,0.7416666666666666
+48176,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,182,29,7,12.0,0,1,0.10416666666666666,0.8958333333333335
+48250,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,111,79,7,16.243902439024392,1,0,0.905,0.095
+48251,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,112,78,7,16.0,1,0,0.9461666666666667,0.05383333333333333
+48254,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,118,75,7,15.733333333333333,1,0,0.9,0.1
+48294,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,166,36,5,11.857142857142858,1,0,0.78,0.22
+48311,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,13,105,10,5.2,0,1,0.244,0.7559999999999999
+48399,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,118,37,1,8.53012048192771,0,1,0.34,0.66
+48401,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,125,35,1,8.823529411764707,0,1,0.15616666666666668,0.8438333333333332
+48437,Mumbai Indians,Rajasthan Royals,"Ahmedabad - Sardar Patel Stadium, Motera",13,103,10,4.588235294117647,0,1,0.19666666666666666,0.8033333333333332
+48969,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,96,118,7,288.0,0,1,0.49,0.51
+48986,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,104,102,5,34.666666666666664,0,1,0.48,0.52
+49016,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,139,73,4,17.74468085106383,0,1,0.34,0.66
+49548,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,2,115,10,2.4,0,1,0.4003333333333333,0.5996666666666667
+49566,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,16,108,9,8.0,0,1,0.29,0.71
+50551,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,4,112,8,3.0,0,1,0.20199999999999999,0.7979999999999999
+50629,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,67,24,5,4.1875,0,1,0.10880952380952381,0.8911904761904762
+50912,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",4,115,10,4.8,1,0,0.83,0.17
+50972,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",75,59,7,7.3770491803278695,1,0,0.87,0.13
+50981,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",81,50,6,6.942857142857143,1,0,0.52,0.48
+50989,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",88,42,5,6.769230769230769,1,0,0.7758333333333334,0.22416666666666665
+51010,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",111,22,5,6.795918367346939,1,0,0.545,0.455
+51011,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",112,21,5,6.787878787878788,1,0,0.515,0.485
+51018,Chennai Super Kings,Kolkata Knight Riders,"Chennai - MA Chidambaram Stadium, Chepauk",118,14,5,6.679245283018868,1,0,0.595,0.405
+51155,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,111,77,2,15.488372093023255,0,1,0.16,0.84
+51158,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,0,2,9,0.0,1,0,0.72,0.28
+51188,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,42,20,8,2.52,1,0,0.73,0.27
+51189,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,43,19,8,2.5544554455445545,1,0,0.86,0.14
+51190,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,49,18,8,2.8823529411764706,1,0,0.91,0.09
+51191,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,50,17,8,2.9126213592233006,1,0,0.91,0.09
+51292,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,17,108,10,8.5,0,1,0.27,0.73
+52353,Chennai Super Kings,Mumbai Indians,"Chennai - MA Chidambaram Stadium, Chepauk",18,103,10,6.352941176470588,0,1,0.23666666666666664,0.7633333333333333
+52498,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,69,20,8,4.14,0,1,0.365,0.6349999999999999
+52530,Kings XI Punjab,Kolkata Knight Riders,Kolkata - Eden Gardens,115,108,6,57.5,0,1,0.36,0.64
+52708,Royal Challengers Bangalore,Mumbai Indians,Mumbai - Wankhede Stadium,0,118,10,0.0,1,0,0.816,0.184
+52714,Royal Challengers Bangalore,Mumbai Indians,Mumbai - Wankhede Stadium,9,109,10,4.909090909090909,1,0,0.67,0.33
+52719,Royal Challengers Bangalore,Mumbai Indians,Mumbai - Wankhede Stadium,19,104,10,7.125,1,0,0.8994047619047619,0.1005952380952381
+52720,Royal Challengers Bangalore,Mumbai Indians,Mumbai - Wankhede Stadium,19,103,10,6.705882352941176,1,0,0.7777380952380952,0.22226190476190474
+53028,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,95,49,9,8.028169014084506,1,0,0.61,0.39
+53030,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,99,47,9,8.136986301369863,1,0,0.59,0.41
+53199,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,1,117,10,2.0,1,0,0.97,0.03
+53200,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,2,116,10,3.0,1,0,0.9716666666666666,0.028333333333333335
+53201,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,6,115,10,7.199999999999999,1,0,0.88,0.12
+53202,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,10,114,10,10.0,1,0,0.8961666666666666,0.10383333333333333
+53204,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,15,113,10,12.857142857142856,1,0,0.8408333333333334,0.15916666666666665
+53205,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,19,112,10,14.25,1,0,0.5966666666666667,0.4033333333333334
+53206,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,19,111,10,12.666666666666666,1,0,0.7558333333333335,0.24416666666666667
+53212,Kings XI Punjab,Royal Challengers Bangalore,Mohali - IS Bindra Stadium,33,106,10,14.142857142857142,1,0,0.57,0.43
+53397,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,10,108,10,5.0,0,1,0.0,1.0
+53456,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,119,68,7,13.730769230769232,0,1,0.4375,0.5625
+53458,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,127,70,7,15.239999999999998,0,1,0.39,0.61
+53577,Kings XI Punjab,Chennai Super Kings,Mohali - IS Bindra Stadium,121,54,3,11.0,0,1,0.46,0.54
+53875,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,55,108,10,27.5,1,0,0.57,0.43
+54628,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,78,63,9,8.210526315789474,0,1,0.09,0.91
+54629,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,79,62,9,8.172413793103448,0,1,0.07,0.93
+54663,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,138,29,8,9.098901098901099,0,1,0.27,0.73
+54943,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,0,119,10,0.0,0,1,0.23866666666666664,0.7613333333333334
+54968,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,40,90,9,8.0,0,1,0.08,0.92
+55079,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,12,112,9,9.0,0,1,0.39,0.61
+55505,Delhi Capitals,Mumbai Indians,Delhi - Arun Jaitley Cricket Stadium,74,118,7,222.0,1,0,0.61,0.39
+55511,Delhi Capitals,Mumbai Indians,Delhi - Arun Jaitley Cricket Stadium,76,112,7,57.0,1,0,0.7,0.3
+55591,Kings XI Punjab,Sunrisers Hyderabad,Hyderabad,20,106,9,8.571428571428571,0,1,0.3558333333333333,0.6441666666666666
+55654,Kings XI Punjab,Sunrisers Hyderabad,Hyderabad,98,52,5,8.647058823529411,0,1,0.49,0.51
+55690,Kings XI Punjab,Sunrisers Hyderabad,Hyderabad,141,18,4,8.294117647058824,0,1,0.45000000000000007,0.5499999999999999
+55970,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,52,84,10,8.666666666666666,1,0,0.7083333333333335,0.29166666666666663
+56433,Kings XI Punjab,Delhi Capitals,Mohali - IS Bindra Stadium,2,75,10,0.26666666666666666,1,0,0.65,0.35
+56463,Kings XI Punjab,Delhi Capitals,Mohali - IS Bindra Stadium,47,81,10,7.230769230769231,1,0,0.85,0.15
+56471,Kings XI Punjab,Delhi Capitals,Mohali - IS Bindra Stadium,54,33,8,3.7241379310344827,1,0,0.64,0.36
+56472,Kings XI Punjab,Delhi Capitals,Mohali - IS Bindra Stadium,55,32,8,3.75,1,0,0.55,0.45
+56698,Royal Challengers Bangalore,Kings XI Punjab,Mohali - IS Bindra Stadium,27,38,8,1.975609756097561,1,0,0.68,0.32
+56699,Royal Challengers Bangalore,Kings XI Punjab,Mohali - IS Bindra Stadium,29,37,8,2.0963855421686746,1,0,0.65,0.35
+56701,Royal Challengers Bangalore,Kings XI Punjab,Mohali - IS Bindra Stadium,30,35,8,2.1176470588235294,1,0,0.71,0.29
+56707,Royal Challengers Bangalore,Kings XI Punjab,Mohali - IS Bindra Stadium,41,29,8,2.7032967032967035,1,0,0.78,0.22
+56717,Royal Challengers Bangalore,Kings XI Punjab,Mohali - IS Bindra Stadium,69,19,8,4.099009900990099,1,0,0.67,0.33
+56801,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,0,119,10,0.0,0,1,0.45121428571428573,0.5487857142857142
+57209,Kings XI Punjab,Sunrisers Hyderabad,Mohali - IS Bindra Stadium,64,36,9,4.571428571428571,0,1,0.42,0.58
+57289,Kings XI Punjab,Sunrisers Hyderabad,Mohali - IS Bindra Stadium,179,62,6,18.517241379310345,0,1,0.47,0.53
+57490,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,117,51,8,10.173913043478262,0,1,0.2833333333333333,0.7166666666666666
+57491,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,118,50,8,10.114285714285716,0,1,0.3491666666666666,0.6508333333333333
+57561,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,38,104,9,14.25,1,0,0.55,0.45
+57564,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,43,101,9,13.578947368421053,1,0,0.5,0.5
+58142,Sunrisers Hyderabad,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,20,99,10,5.714285714285714,1,0,0.96,0.04
+58143,Sunrisers Hyderabad,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,20,98,10,5.454545454545455,1,0,0.98,0.02
+58149,Sunrisers Hyderabad,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,38,92,10,8.142857142857142,1,0,0.84,0.16
+58160,Sunrisers Hyderabad,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,58,82,10,9.157894736842106,1,0,0.86,0.14
+58161,Sunrisers Hyderabad,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,59,119,10,354.0,1,0,0.61,0.39
+58165,Sunrisers Hyderabad,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,61,115,10,73.2,1,0,0.63,0.37
+58377,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,6,38,10,0.43902439024390244,1,0,0.78,0.22
+58378,Royal Challengers Bangalore,Delhi Capitals,Bangalore - M Chinnaswamy Stadium,8,37,10,0.5783132530120482,1,0,0.77,0.23
+58752,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,0,111,10,0.0,0,1,0.27,0.73
+58769,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,14,94,10,3.230769230769231,0,1,0.39,0.61
+58804,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,56,79,7,8.195121951219512,0,1,0.04,0.96
+58807,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,61,76,7,8.318181818181818,0,1,0.49,0.51
+58810,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,63,73,7,8.042553191489363,0,1,0.3715,0.6285000000000001
+58816,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,69,67,7,7.811320754716981,0,1,0.12833333333333333,0.8716666666666666
+59072,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,67,57,9,6.380952380952381,0,1,0.4,0.6
+59075,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,71,54,9,6.454545454545454,0,1,0.24,0.76
+59076,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,72,53,9,6.447761194029851,0,1,0.19,0.81
+59080,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,75,49,9,6.338028169014084,0,1,0.19,0.81
+59085,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,80,44,9,6.315789473684211,0,1,0.17,0.83
+59086,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,84,43,9,6.545454545454545,0,1,0.47,0.53
+59262,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,5,110,10,3.0,1,0,0.8,0.2
+59296,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,51,113,10,43.71428571428571,1,0,0.63,0.37
+59321,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,88,61,8,8.94915254237288,1,0,0.54,0.46
+59327,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,95,55,8,8.769230769230768,1,0,0.67,0.33
+59333,Delhi Capitals,Kings XI Punjab,Delhi - Arun Jaitley Cricket Stadium,102,49,7,8.619718309859154,1,0,0.5,0.5
+59418,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,52,86,10,9.176470588235293,0,1,0.22883333333333336,0.7711666666666664
+59439,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,75,65,8,8.181818181818182,0,1,0.25916666666666666,0.7408333333333332
+59446,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,85,58,8,8.225806451612902,0,1,0.4661666666666667,0.5338333333333334
+59579,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,79,68,7,9.115384615384617,1,0,0.8886666666666667,0.11133333333333333
+59580,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,79,67,7,8.943396226415095,1,0,0.76,0.24
+59671,Sunrisers Hyderabad,Delhi Capitals,Hyderabad,42,81,9,6.461538461538462,1,0,0.67,0.33
+60016,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,19,106,10,8.142857142857142,1,0,0.87,0.13
+60019,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,30,115,10,36.0,1,0,0.67,0.33
+60020,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata - Eden Gardens,30,114,10,30.0,1,0,0.6,0.4
+61043,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,116,85,8,19.885714285714286,1,0,0.62,0.38
+61242,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,12,107,9,5.538461538461539,0,1,0.32,0.68
+61244,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,19,105,9,7.6,0,1,0.21383333333333332,0.7861666666666668
+61249,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,28,88,9,5.25,0,1,0.33,0.67
+61251,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,29,86,9,5.117647058823529,0,1,0.26,0.74
+61252,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,29,98,9,7.909090909090909,0,1,0.26,0.74
+61258,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,34,117,8,68.0,0,1,0.28,0.72
+61312,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,96,36,6,6.857142857142857,0,1,0.33799999999999997,0.662
+61425,Kings XI Punjab,Kolkata Knight Riders,Mohali - IS Bindra Stadium,91,81,7,14.0,1,0,0.69,0.31
+61426,Kings XI Punjab,Kolkata Knight Riders,Mohali - IS Bindra Stadium,91,80,7,13.649999999999999,1,0,0.59,0.41
+61518,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,84,-1,10,4.165289256198347,1,0,0.57,0.43
+61560,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,158,47,8,12.986301369863014,1,0,0.64,0.36
+61566,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,164,41,8,12.455696202531646,1,0,0.58,0.42
+61567,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,165,40,8,12.375,1,0,0.79,0.21
+61606,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,0,118,10,0.0,1,0,0.5185714285714286,0.4814285714285713
+61624,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,13,108,9,6.5,1,0,0.6561666666666668,0.3438333333333334
+61661,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,71,74,8,9.26086956521739,1,0,0.51,0.49
+61691,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,100,44,7,7.894736842105264,1,0,0.76,0.24
+61700,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,110,35,7,7.764705882352941,1,0,0.93,0.07
+61711,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,135,24,6,8.4375,1,0,0.6505000000000001,0.34950000000000003
+61713,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,140,22,6,8.571428571428571,1,0,0.5070833333333333,0.49291666666666667
+61714,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,140,21,6,8.484848484848484,1,0,0.585,0.415
+61719,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,154,16,6,8.884615384615385,1,0,0.7,0.3
+61720,Mumbai Indians,Kolkata Knight Riders,Kolkata - Eden Gardens,154,15,6,8.8,1,0,0.67,0.33
+62131,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,55,117,9,110.0,0,1,0.45,0.55
+62133,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,60,115,9,72.0,0,1,0.32,0.68
+62188,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,118,28,6,7.695652173913043,0,1,0.43,0.57
+62189,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,119,27,6,7.67741935483871,0,1,0.31,0.69
+62198,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,136,18,6,8.0,0,1,0.2818333333333333,0.7181666666666666
+62388,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,59,73,9,7.531914893617022,0,1,0.09,0.91
+62389,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,59,72,9,7.375,0,1,0.30785714285714283,0.6921428571428572
+62400,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,72,61,8,7.322033898305084,0,1,0.04,0.96
+62403,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,79,58,8,7.64516129032258,0,1,0.12,0.88
+62899,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,92,10,6,5.0181818181818185,0,1,0.25616666666666665,0.7438333333333333
+63075,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,14,75,9,1.8666666666666667,0,1,0.26166666666666666,0.7383333333333333
+63085,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,20,53,9,1.791044776119403,0,1,0.49,0.51
+63089,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,28,62,9,2.896551724137931,0,1,0.16,0.84
+63135,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,117,50,8,10.028571428571428,0,1,0.34,0.66
+63141,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,125,44,8,9.868421052631579,0,1,0.18,0.82
+63142,Mumbai Indians,Delhi Capitals,Mumbai - Wankhede Stadium,129,43,8,10.05194805194805,0,1,0.09,0.91
+63210,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata - Eden Gardens,25,63,8,2.6315789473684212,0,1,0.45,0.55
+63211,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata - Eden Gardens,25,62,8,2.586206896551724,0,1,0.45,0.55
+63212,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata - Eden Gardens,29,61,8,2.949152542372881,0,1,0.49,0.51
+63219,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata - Eden Gardens,36,81,8,5.538461538461538,0,1,0.4,0.6
+63315,Rajasthan Royals,Royal Challengers Bangalore,Bangalore - M Chinnaswamy Stadium,5,111,10,3.3333333333333335,1,0,0.5,0.5
+63468,Kings XI Punjab,Chennai Super Kings,Mohali - IS Bindra Stadium,50,80,9,7.5,1,0,0.98,0.02
+63563,Kolkata Knight Riders,Delhi Capitals,Kolkata - Eden Gardens,3,66,9,0.3333333333333333,1,0,0.62,0.38
+63691,Mumbai Indians,Royal Challengers Bangalore,Mumbai - Wankhede Stadium,14,102,10,4.666666666666667,1,0,0.64,0.36
+63826,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,23,65,9,2.5090909090909093,0,1,0.47,0.53
+63908,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,125,20,5,7.499999999999999,0,1,0.49,0.51
+63910,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,127,18,5,7.470588235294118,0,1,0.24,0.76
+63915,Rajasthan Royals,Kolkata Knight Riders,Jaipur - Sawai Mansingh Stadium,137,13,5,7.682242990654206,0,1,0.4316666666666667,0.5683333333333334
+63966,Kings XI Punjab,Sunrisers Hyderabad,Mohali - IS Bindra Stadium,68,35,9,4.8,1,0,0.79,0.21
+63967,Kings XI Punjab,Sunrisers Hyderabad,Mohali - IS Bindra Stadium,72,34,9,5.023255813953488,1,0,0.77,0.23
+63978,Kings XI Punjab,Sunrisers Hyderabad,Mohali - IS Bindra Stadium,87,23,9,5.381443298969072,1,0,0.67,0.33
+64000,Kings XI Punjab,Sunrisers Hyderabad,Mohali - IS Bindra Stadium,120,3,8,6.153846153846154,1,0,0.94,0.06
+64188,Kolkata Knight Riders,Kings XI Punjab,Kolkata - Eden Gardens,12,67,10,1.3584905660377358,0,1,0.33,0.67
+64199,Kolkata Knight Riders,Kings XI Punjab,Kolkata - Eden Gardens,34,56,9,3.1875,0,1,0.42,0.58
+64202,Kolkata Knight Riders,Kings XI Punjab,Kolkata - Eden Gardens,41,53,9,3.6716417910447765,0,1,0.08,0.92
+64203,Kolkata Knight Riders,Kings XI Punjab,Kolkata - Eden Gardens,42,52,9,3.705882352941176,0,1,0.06,0.94
+64699,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,29,26,9,1.8510638297872342,1,0,0.51,0.49
+64732,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,60,108,5,30.0,1,0,0.64,0.36
+64733,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,64,107,5,29.53846153846154,1,0,0.64,0.36
+64744,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,86,96,5,21.5,1,0,0.61,0.39
+64745,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,87,95,5,20.88,1,0,0.62,0.38
+64752,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,96,88,4,18.0,1,0,0.67,0.33
+64754,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,97,86,4,17.11764705882353,1,0,0.71,0.29
+64755,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,99,85,4,16.97142857142857,1,0,0.91,0.09
+64756,Kings XI Punjab,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,100,84,4,16.666666666666668,1,0,0.84,0.16
+64830,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,38,96,8,9.5,1,0,0.9,0.1
+64835,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,44,91,7,9.10344827586207,1,0,0.5245000000000001,0.4755
+64840,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,46,87,6,8.363636363636363,1,0,0.653,0.34700000000000003
+64843,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,51,84,6,8.5,1,0,0.97,0.03
+64857,Sunrisers Hyderabad,Mumbai Indians,Mumbai - Wankhede Stadium,64,70,5,7.68,1,0,0.824,0.17600000000000002
+64988,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,109,85,3,18.685714285714287,0,1,0.39,0.61
+65211,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,62,73,9,7.914893617021277,1,0,0.6666666666666665,0.33333333333333326
+65229,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,88,55,9,8.123076923076923,1,0,0.5825,0.4175
+65230,Delhi Capitals,Kolkata Knight Riders,Delhi - Arun Jaitley Cricket Stadium,92,54,9,8.363636363636363,1,0,0.5733333333333334,0.4266666666666667
+65835,Royal Challengers Bangalore,Mumbai Indians,Bangalore - M Chinnaswamy Stadium,72,119,5,432.0,1,0,0.62,0.38
+65944,Delhi Capitals,Rajasthan Royals,Delhi - Arun Jaitley Cricket Stadium,74,113,8,63.42857142857142,1,0,0.5493333333333333,0.4506666666666666
+66416,Delhi Capitals,Sunrisers Hyderabad,Hyderabad,58,80,10,8.7,0,1,0.21,0.79
+66417,Delhi Capitals,Sunrisers Hyderabad,Hyderabad,59,79,10,8.634146341463415,0,1,0.01,0.99
+66870,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,136,108,1,68.0,1,0,0.845,0.155
+67503,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,1,77,10,0.13953488372093023,0,1,0.43,0.57
+67567,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,100,50,9,8.571428571428571,0,1,0.25,0.75
+67569,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,102,48,9,8.5,0,1,0.06,0.94
+67570,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,103,47,9,8.465753424657535,0,1,0.11,0.89
+67572,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,104,45,9,8.32,0,1,0.22,0.78
+67575,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,110,42,9,8.461538461538462,0,1,0.35,0.65
+67600,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,146,18,7,8.588235294117647,0,1,0.48,0.52
+68094,Mumbai Indians,Kings XI Punjab,Mumbai - Wankhede Stadium,1,112,10,0.75,1,0,0.72,0.28
+68282,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,105,49,8,8.873239436619718,1,0,0.89,0.11
+68294,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,118,38,8,8.634146341463415,1,0,0.715,0.285
+68316,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore - M Chinnaswamy Stadium,157,17,5,9.145631067961164,1,0,0.5,0.5
+68351,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,2,115,10,2.4,1,0,0.92,0.08
+68371,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,26,4,9,1.3448275862068966,1,0,0.75,0.25
+68379,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,55,89,9,10.64516129032258,1,0,0.74,0.26
+68380,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,55,88,9,10.3125,1,0,0.56,0.44
+68383,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,59,85,9,10.114285714285716,1,0,0.94,0.06
+68384,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,59,84,9,9.833333333333334,1,0,0.76,0.24
+68392,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,68,76,9,9.272727272727273,1,0,0.94,0.06
+68393,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,69,75,9,9.2,1,0,0.9,0.1
+68407,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,90,62,9,9.310344827586208,1,0,0.78,0.22
+68424,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,106,45,7,8.48,1,0,0.8783333333333333,0.12166666666666666
+68467,Delhi Capitals,Chennai Super Kings,Delhi - Arun Jaitley Cricket Stadium,162,5,5,8.452173913043477,1,0,0.5533333333333333,0.44666666666666666
+68477,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,9,112,10,6.75,1,0,0.6838333333333333,0.31616666666666665
+68495,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,32,94,9,7.384615384615385,1,0,0.5916666666666666,0.40833333333333327
+68496,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,34,93,9,7.555555555555555,1,0,0.7108333333333333,0.2891666666666667
+68531,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,78,60,8,7.8,1,0,0.75,0.25
+68534,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,82,57,8,7.809523809523809,1,0,0.59,0.41
+68562,Rajasthan Royals,Royal Challengers Bangalore,Jaipur - Sawai Mansingh Stadium,115,32,6,7.840909090909091,1,0,0.78,0.22
+69096,Kolkata Knight Riders,Rajasthan Royals,Kolkata - Eden Gardens,1,109,10,0.5454545454545455,1,0,0.87,0.13
+69097,Kolkata Knight Riders,Rajasthan Royals,Kolkata - Eden Gardens,2,108,10,1.0,1,0,0.9,0.1
+69100,Kolkata Knight Riders,Rajasthan Royals,Kolkata - Eden Gardens,7,117,9,14.0,1,0,0.6186666666666667,0.3813333333333334
+69178,Kolkata Knight Riders,Rajasthan Royals,Kolkata - Eden Gardens,85,41,6,6.455696202531646,1,0,0.675,0.325
+69179,Kolkata Knight Riders,Rajasthan Royals,Kolkata - Eden Gardens,86,40,6,6.449999999999999,1,0,0.655,0.345
+69217,Kolkata Knight Riders,Rajasthan Royals,Kolkata - Eden Gardens,164,3,4,8.41025641025641,1,0,0.57,0.43
+69268,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata - Eden Gardens,71,104,7,26.625,1,0,0.575,0.425
+69578,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata - Eden Gardens,1,114,10,1.0,0,1,0.33,0.67
+69700,Delhi Capitals,Mumbai Indians,Mumbai - Wankhede Stadium,1,0,10,0.05,1,0,0.84,0.16
+69701,Delhi Capitals,Mumbai Indians,Mumbai - Wankhede Stadium,2,1,10,0.10084033613445378,1,0,0.84,0.16
+69835,Kings XI Punjab,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,12,102,9,4.0,1,0,0.56,0.44
+69846,Kings XI Punjab,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,27,92,9,5.785714285714286,1,0,0.7606666666666666,0.23933333333333334
+69847,Kings XI Punjab,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,28,91,9,5.793103448275862,1,0,0.764,0.23600000000000002
+69922,Kings XI Punjab,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,140,26,8,8.936170212765958,1,0,0.57,0.43
+69938,Kings XI Punjab,Rajasthan Royals,Jaipur - Sawai Mansingh Stadium,155,11,7,8.53211009174312,1,0,0.61,0.39
+70093,Kolkata Knight Riders,Kings XI Punjab,Kolkata - Eden Gardens,54,115,9,64.8,1,0,0.56,0.44
+70097,Kolkata Knight Riders,Kings XI Punjab,Kolkata - Eden Gardens,63,111,9,42.0,1,0,0.75,0.25
+70164,Kolkata Knight Riders,Kings XI Punjab,Kolkata - Eden Gardens,147,26,6,9.382978723404255,1,0,0.574,0.4260000000000001
+70526,Mumbai Indians,Kings XI Punjab,Mohali - IS Bindra Stadium,112,40,5,8.4,0,1,0.39,0.61
+70610,Kolkata Knight Riders,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,36,84,8,6.0,0,1,0.14,0.86
+70611,Kolkata Knight Riders,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,36,83,8,5.837837837837838,0,1,0.35,0.65
+70612,Kolkata Knight Riders,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,37,82,8,5.842105263157895,0,1,0.45,0.55
+70628,Kolkata Knight Riders,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,59,66,6,6.555555555555555,0,1,0.25,0.75
+70703,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,14,118,10,42.0,1,0,0.73,0.27
+71248,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,95,109,8,51.81818181818182,1,0,0.84,0.16
+71249,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,96,108,8,48.0,1,0,0.91,0.09
+71286,Mumbai Indians,Chennai Super Kings,Mumbai - Wankhede Stadium,141,72,6,17.625,1,0,0.69,0.31
+71316,Delhi Capitals,Sunrisers Hyderabad,Delhi - Arun Jaitley Cricket Stadium,4,119,10,24.0,0,1,0.35,0.65
+71692,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,1,114,10,1.0,1,0,0.74,0.26
+71784,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,80,23,5,4.948453608247422,1,0,0.82,0.18
+72137,Sunrisers Hyderabad,Kings XI Punjab,Mohali - IS Bindra Stadium,83,48,8,6.916666666666667,0,1,0.12083333333333332,0.8791666666666665
+72336,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,50,117,10,100.0,0,1,0.23833333333333337,0.7616666666666666
+72367,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,99,86,10,17.470588235294116,0,1,0.15,0.85
+72408,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,156,48,7,13.0,0,1,0.33,0.67
+72412,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,159,44,7,12.552631578947368,0,1,0.38,0.62
+72430,Kings XI Punjab,Mumbai Indians,Mumbai - Wankhede Stadium,197,11,6,10.844036697247706,0,1,0.29,0.71
+72584,Kolkata Knight Riders,Delhi Capitals,Kolkata - Eden Gardens,38,5,8,1.9826086956521738,0,1,0.47,0.53
+72763,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,129,30,8,8.6,0,1,0.4633333333333334,0.5366666666666667
+72770,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,139,23,8,8.597938144329897,0,1,0.21,0.79
+72776,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,148,17,7,8.62135922330097,0,1,0.2,0.8
+72777,Mumbai Indians,Rajasthan Royals,Mumbai - Wankhede Stadium,150,17,7,8.737864077669903,0,1,0.20666666666666664,0.7933333333333334
+73174,Royal Challengers Bangalore,Mumbai Indians,Mumbai - Wankhede Stadium,0,119,10,0.0,0,1,0.34,0.66
+73446,Chennai Super Kings,Sunrisers Hyderabad,Hyderabad,22,100,10,6.6,0,1,0.4191666666666667,0.5808333333333333
+73448,Chennai Super Kings,Sunrisers Hyderabad,Hyderabad,22,98,10,6.0,0,1,0.3403333333333333,0.6596666666666665
+73489,Chennai Super Kings,Sunrisers Hyderabad,Hyderabad,91,59,9,8.950819672131148,0,1,0.35,0.65
+73570,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,47,80,9,7.05,1,0,0.67,0.33
+73609,Mumbai Indians,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,85,51,7,7.391304347826087,1,0,0.8105,0.1895
+73697,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,41,2,9,2.084745762711864,1,0,0.5733333333333334,0.42666666666666664
+73702,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,49,81,8,7.538461538461538,1,0,0.8641666666666665,0.13583333333333333
+73705,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,50,78,8,7.142857142857143,1,0,0.9191666666666666,0.08083333333333333
+73707,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,54,76,8,7.363636363636364,1,0,0.812857142857143,0.18714285714285717
+73708,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,58,75,8,7.733333333333333,1,0,0.64,0.36
+73752,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata - Eden Gardens,124,31,7,8.359550561797752,1,0,0.64,0.36
+74158,Kolkata Knight Riders,Sunrisers Hyderabad,Hyderabad,159,7,2,8.442477876106196,0,1,0.1425,0.8575
+74161,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,1,115,10,1.2,1,0,0.52,0.48
+74184,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,31,92,9,6.642857142857142,1,0,0.915,0.085
+74264,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,137,10,6,7.4727272727272736,1,0,0.55,0.45
+74270,Royal Challengers Bangalore,Chennai Super Kings,Bangalore - M Chinnaswamy Stadium,150,4,5,7.758620689655173,1,0,0.7816666666666666,0.21833333333333335
+74407,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",2,76,10,0.27272727272727276,0,1,0.18,0.82
+74408,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",3,75,10,0.4,0,1,0.17,0.83
+74413,Sunrisers Hyderabad,Chennai Super Kings,"Chennai - MA Chidambaram Stadium, Chepauk",9,79,10,1.3170731707317074,0,1,0.33,0.67
+74531,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,9,111,10,6.0,1,0,0.56,0.44
+74572,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,65,119,7,390.0,1,0,0.6833333333333332,0.31666666666666665
+74573,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,69,118,7,207.0,1,0,0.53,0.47
+74612,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,111,71,6,13.591836734693878,1,0,0.76,0.24
+74613,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,112,70,6,13.44,1,0,0.62,0.38
+74633,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,143,10,6,7.800000000000001,1,0,0.55,0.45
+74634,Royal Challengers Bangalore,Kings XI Punjab,Bangalore - M Chinnaswamy Stadium,144,11,6,7.9266055045871555,1,0,0.57,0.43
+74768,Kolkata Knight Riders,Rajasthan Royals,Kolkata - Eden Gardens,151,7,4,8.017699115044248,0,1,0.19,0.81
+75033,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,11,101,10,3.473684210526316,1,0,0.8133333333333335,0.18666666666666665
+75043,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,32,91,9,6.620689655172415,1,0,0.7925,0.2075
+75045,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,32,89,9,6.193548387096774,1,0,0.7381666666666666,0.26183333333333336
+75055,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,49,79,9,7.170731707317073,1,0,0.81,0.19
+75097,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,105,44,8,8.289473684210527,1,0,0.78,0.22
+75105,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,114,36,8,8.142857142857142,1,0,0.86,0.14
+75135,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,167,6,5,8.789473684210526,1,0,0.89,0.11
+75136,Delhi Capitals,Royal Challengers Bangalore,Delhi - Arun Jaitley Cricket Stadium,171,5,5,8.921739130434782,1,0,0.77,0.23
+75142,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,1,70,10,0.12,1,0,0.9,0.1
+75146,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,10,66,10,1.1111111111111112,1,0,1.0,0.0
+75154,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,29,98,10,7.909090909090909,1,0,0.68,0.32
+75159,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,40,93,10,8.88888888888889,1,0,0.58,0.42
+75178,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,77,0,10,3.85,1,0,0.73,0.27
+75184,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,83,59,9,8.163934426229508,1,0,0.67,0.33
+75195,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,101,48,9,8.416666666666666,1,0,0.5656666666666667,0.43433333333333335
+75210,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,119,36,9,8.5,1,0,0.86,0.14
+75215,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,138,32,9,9.40909090909091,1,0,0.55,0.45
+75226,Kolkata Knight Riders,Mumbai Indians,Kolkata - Eden Gardens,152,21,8,9.212121212121213,1,0,0.59,0.41
+75270,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,6,104,10,2.25,1,0,0.88,0.12
+75272,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,8,102,10,2.6666666666666665,1,0,0.58,0.42
+75276,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,21,99,10,6.0,1,0,0.54,0.46
+75285,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,37,91,10,7.655172413793104,1,0,0.5,0.5
+75328,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,95,58,9,9.193548387096774,1,0,0.7273333333333334,0.27266666666666667
+75388,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,197,1,4,9.932773109243698,1,0,0.58,0.42
+75491,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",107,35,8,7.552941176470589,1,0,0.78,0.22
+75501,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",127,25,7,8.021052631578947,1,0,0.57,0.43
+75511,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",145,9,6,7.837837837837838,1,0,0.6018333333333333,0.3981666666666666
+75512,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",149,8,6,7.982142857142857,1,0,0.6908333333333334,0.30916666666666665
+75513,Chennai Super Kings,Delhi Capitals,"Chennai - MA Chidambaram Stadium, Chepauk",150,7,6,7.964601769911505,1,0,0.5941666666666667,0.40583333333333327
+75862,Rajasthan Royals,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,91,48,2,7.583333333333333,0,1,0.2991666666666667,0.7008333333333334
+75866,Rajasthan Royals,Delhi Capitals,Delhi - Arun Jaitley Cricket Stadium,97,44,2,7.657894736842105,0,1,0.07,0.93
+76169,Kolkata Knight Riders,Mumbai Indians,Mumbai - Wankhede Stadium,47,92,9,10.071428571428571,0,1,0.48,0.52
+76178,Kolkata Knight Riders,Mumbai Indians,Mumbai - Wankhede Stadium,51,82,7,8.052631578947368,0,1,0.44,0.56
+82499,Mumbai Indians,Sunrisers Hyderabad,Sharjah,6,112,9,4.5,1,0,0.82,0.18
+82981,Mumbai Indians,Rajasthan Royals,Abu Dhabi - Sheikh Zayed Stadium,179,3,5,9.179487179487179,0,1,0.14,0.86
+82984,Mumbai Indians,Rajasthan Royals,Abu Dhabi - Sheikh Zayed Stadium,195,0,5,9.75,0,1,0.07,0.93
