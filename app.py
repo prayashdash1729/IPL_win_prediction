@@ -272,7 +272,7 @@ elif (sidebar == 'Custom Match'):
             crr = 0
             st.error('0 Overs bowled. Please enter valid over details.')
         else:
-            crr = score/(int(overs)*6 + round((overs - int(overs)))*10)
+            crr = score/overs
         rrr = runs_to_bat/(balls_left/6)
 
         # Features required for the model
