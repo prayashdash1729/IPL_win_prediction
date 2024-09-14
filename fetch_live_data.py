@@ -6,20 +6,20 @@ import streamlit as st
 
 class Data:
     def __init__(self):
-        self.base_url = "https://" + st.secrets["API_HOST"]
-        self.headers = {
-            "X-RapidAPI-Key": st.secrets["API_KEY"],
-            "X-RapidAPI-Host": st.secrets["API_HOST"]
-        }
-        self.series_id = st.secrets["SERIES_ID"]
-
-        # self.config = dotenv_values(".env")
-        # self.base_url = "https://" + self.config["API_HOST"]
+        # self.base_url = "https://" + st.secrets["API_HOST"]
         # self.headers = {
-        #     "X-RapidAPI-Key": self.config["API_KEY"],
-        #     "X-RapidAPI-Host": self.config["API_HOST"]
+        #     "X-RapidAPI-Key": st.secrets["API_KEY"],
+        #     "X-RapidAPI-Host": st.secrets["API_HOST"]
         # }
-        # self.series_id = self.config["SERIES_ID"]
+        # self.series_id = st.secrets["SERIES_ID"]
+
+        self.config = dotenv_values(".env")
+        self.base_url = "https://" + self.config["API_HOST"]
+        self.headers = {
+            "X-RapidAPI-Key": self.config["API_KEY"],
+            "X-RapidAPI-Host": self.config["API_HOST"]
+        }
+        self.series_id = self.config["SERIES_ID"]
 
     def get_matches(self):
         url = self.base_url + "/fixtures-by-series/" + str(self.series_id)
